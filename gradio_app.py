@@ -18,7 +18,7 @@ interface = gr.Interface(fn=gradio_word2pdf,
                          inputs=gr.inputs.File(label="Input Word Document",type="file"),
                          outputs=gr.outputs.Textbox(label="Conversion Status"),
                          live=True,
-                         title="Word To PDF Convertor",
+                         title="Word To PDF Converter",
                          description="Convert Word document to PDF files")
 
 if __name__ == "__main__":
