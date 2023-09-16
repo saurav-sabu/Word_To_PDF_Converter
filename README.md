@@ -68,6 +68,12 @@ Activate the virtual environment:
 
 6. It will be downloaded in your local system.
 
+## Screenshots
+
+<img src="https://github.com/saurav-sabu/Word_To_PDF_Converter/blob/main/starter.PNG" alt="UI" title="UI DESIGN">
+
+<img src="https://github.com/saurav-sabu/Word_To_PDF_Converter/blob/main/usage.PNG" alt="USAGE" title="USAGE">
+
 ## Support
 
 If you have any questions, encounter issues, or need assistance, you can contact at saurav.sabu9@gmail.com. I am here to help you with any inquiries or problems you may have.
