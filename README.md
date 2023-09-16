@@ -6,6 +6,7 @@
 - Features
 - Modules Used
 - Usage
+- Screenshots
 - Support
 
 ## Introduction
