@@ -6,6 +6,7 @@
 - Features
 - Modules Used
 - Usage
+- Screenshots
 - Support
 
 ## Introduction
@@ -67,6 +68,12 @@ Activate the virtual environment:
 5. Wait for the conversion process to complete.
 
 6. It will be downloaded in your local system.
+
+## Screenshots
+
+<img src="https://github.com/saurav-sabu/Word_To_PDF_Converter/blob/main/starter.PNG" alt="UI" title="UI DESIGN">
+
+<img src="https://github.com/saurav-sabu/Word_To_PDF_Converter/blob/main/usage.PNG" alt="USAGE" title="USAGE">
 
 ## Support
 
